@@ -1,3 +1,4 @@
+import sys
 import codecs
 from setuptools import setup
 import subprocess
